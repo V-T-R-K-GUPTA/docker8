@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM nginx
 MAINTAINER teja
 LABEL this is my first food delivery swiggy app
 EXPOSE 80 
